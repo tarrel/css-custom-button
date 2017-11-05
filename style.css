@@ -1,0 +1,88 @@
+*
+{
+      box-sizing: border-box;
+}
+
+body
+{
+      font-family: 'Raleway', sans-serif;
+      margin: 0px;
+      font-size: 15px;
+      color: #b3b3b3;
+      width: 100%;
+}
+
+a:webkit-any-link
+{
+      text-decoration: none;
+}
+
+h1
+{
+      color: turquoise;
+      font-size: 40px;
+      text-shadow: 1px 2px 2px rgba(149, 150, 150, 1);
+      font-weight: bold;
+      letter-spacing: -1px;
+      line-height: 1;
+      text-align: center;
+}
+
+h2
+{
+      color: tomato;
+      font-family: 'Open Sans', sans-serif;
+      font-size: 20px;
+      font-weight: 300;
+      text-align: center;
+}
+
+p
+{
+      color: tomato;
+      text-align: center;
+      font-size: 14px;
+      margin: 0 0 24px;
+}
+
+.white
+{
+      height: 200px;
+      padding: 70px 50px;
+      background: white;
+      box-shadow: 0px 0.5px 6px 0 #8a8a8a;
+}
+
+.grey
+{
+      height: 200px;
+      padding: 70px 50px;
+      background: #efefef;
+      box-shadow: 0px 0.5px 6px 0 #8a8a8a;
+}
+
+div
+{
+      max-width: auto;
+}
+
+.btn
+{
+      display: inline-flex;
+      margin: 0 5px 0 0;
+      height: 60px;
+      width: 155px;
+      position: relative;
+      opacity: 0.999;
+      padding: 20px 37px;
+      text-align: center;
+      border-radius: 3px;
+      border: 1px solid #b3b3b3;
+      -moz-transition: 0.3s;
+      -ms-transition: 0.3s;
+      -o-transition: 0.3s;
+      -webkit-transition: 0.3s;
+      transition: 0.3s;
+      overflow: hidden;
+      cursor: default;
+}
