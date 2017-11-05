@@ -1,4 +1,9 @@
-            <link rel="stylesheet" href="css/style.css" type="text/css">
-            <link rel="stylesheet" href="css/media.css" type="text/css">
+
 # css-custom-button
 CSS link to button styles.
+
+Create new buttons with simple effect, transition and different borders.
+
+"css/media.css" have all the code that a link appears as a button and with different trasitions.
+
+For more info see "index.html".
